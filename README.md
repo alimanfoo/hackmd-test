@@ -11,3 +11,9 @@ Lot's of text here, we scousadl kj asdlkj asdlkj asdlj ;alskjd ;oiuwqe;oiu ;djah
 This is arguably lots of gibberish.
 Is it really worth debating whether to write sentences on separate lines? 
 This could be a good idea, but could also be annoying.
+
+What about a figure?
+
+![F4.large](https://hackmd.io/_uploads/B1g5vtvrp.jpg)
+
+Oh, look! You can upload to hackmd :smile_cat: 
