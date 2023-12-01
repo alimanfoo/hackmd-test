@@ -17,3 +17,7 @@ What about a figure?
 ![F4.large](https://hackmd.io/_uploads/B1g5vtvrp.jpg)
 
 Oh, look! You can upload to hackmd :smile_cat: 
+
+## Methods
+
+We did a load of interesting stuff.
